@@ -67,8 +67,8 @@ Using SHAP analysis, we uncovered the primary drivers of demand:
 2.  **The Goldilocks Temperature:** Demand rises with temperature but plateaus/drops above **25°C** (Too hot to ride).
 3.  **Rain is a "Kill Switch":** Even minimal rainfall causes demand to plummet near zero, overriding all other factors.
 
-*(Place your SHAP Summary plot here)*
-`![SHAP Summary](images/shap_summary.png)`
+
+(SAVE_20251207_165152.jpg)
 
 ---
 
