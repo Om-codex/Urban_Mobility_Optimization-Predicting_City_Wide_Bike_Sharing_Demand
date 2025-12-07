@@ -69,7 +69,7 @@ Using SHAP analysis, we uncovered the primary drivers of demand:
 
 
 ![Shap Summary](./images/SAVE_20251207_165152.jpg)
-
+(./images/SAVE_20251207_165159.jpg)
 ---
 
 ## 🚀 Business Recommendations
