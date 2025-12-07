@@ -56,10 +56,7 @@ After extensive testing, **LightGBM** emerged as the winner, balancing speed and
 ### Actual vs. Predicted Analysis
 The model shows tight alignment with the ideal prediction line, with minor variance only during extreme outlier events (demand > 2500).
 
-*(Place your 'Actual vs Predicted' plot here: Save it as `images/actual_vs_pred.png`)*
-`![Actual vs Predicted](images/actual_vs_pred.png)`
-
----
+![Actual vs Predicted](./images/download.png)
 
 ## 🔍 Key Insights & Interpretability (SHAP)
 
