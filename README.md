@@ -1,7 +1,7 @@
 # 🚲 Urban Mobility Optimization: Predicting Bike Sharing Demand
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
-![Library](https://img.shields.io/badge/Library-Scikit--Learn%20|%20LightGBM%20|%20XGBoost%20|%20RandomForest%20|DecisionTree%20|%20LinearRegression-orange)
+![Library](https://img.shields.io/badge/Library-Scikit--Learn%20|%20LightGBM%20|%20XGBoost%20|%20RandomForest%20|%20DecisionTree%20|%20LinearRegression-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## 📋 Executive Summary
