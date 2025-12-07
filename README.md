@@ -48,8 +48,8 @@ After extensive testing, **LightGBM** emerged as the winner, balancing speed and
 | :--- | :--- | :--- | :--- |
 | **LightGBM (Tuned)** | **0.9353** | **0.9482** | **Best Performance / No Overfitting** |
 | XGBoost (Tuned) | 0.9250 | 0.9410 | Strong Contender |
-| Random Forest | 0.9200 | 0.9850 | Slight Overfitting |
-| Linear Regression | 0.5500 | 0.5600 | Failed to capture non-linear patterns |
+| Random Forest | 0.85 | 0.92 | Slight Overfitting |
+| Linear Regression | 0.5565 | 0.5735 | Failed to capture non-linear patterns |
 
 ![Model Performance](./images/SAVE_20251207_165211.jpg)
 
