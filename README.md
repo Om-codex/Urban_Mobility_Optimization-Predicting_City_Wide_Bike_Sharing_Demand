@@ -68,7 +68,7 @@ Using SHAP analysis, we uncovered the primary drivers of demand:
 3.  **Rain is a "Kill Switch":** Even minimal rainfall causes demand to plummet near zero, overriding all other factors.
 
 
-(SAVE_20251207_165152.jpg)
+`(SAVE_20251207_165152.jpg)`
 
 ---
 
