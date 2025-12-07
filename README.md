@@ -51,6 +51,8 @@ After extensive testing, **LightGBM** emerged as the winner, balancing speed and
 | Random Forest | 0.9200 | 0.9850 | Slight Overfitting |
 | Linear Regression | 0.5500 | 0.5600 | Failed to capture non-linear patterns |
 
+![Model Performance](./images/SAVE_20251207_165211.jpg)
+
 ### Actual vs. Predicted Analysis
 The model shows tight alignment with the ideal prediction line, with minor variance only during extreme outlier events (demand > 2500).
 
